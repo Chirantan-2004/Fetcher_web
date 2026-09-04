@@ -1,0 +1,1 @@
+API routes are defined in app/main.py for this compact deployment.
